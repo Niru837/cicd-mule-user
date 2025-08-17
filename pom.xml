@@ -4,13 +4,13 @@
 
 	<groupId>2017968a-8023-4421-baa7-b41527fcc11c</groupId>
 	<artifactId>mule-cicd</artifactId>
-	<version>${version}</version>
+	<version>${appVersion}</version>
 	<packaging>mule-application</packaging>
 
 	<name>mule-cicd</name>
 
 	<properties>
-		<!-- <app.version>1.0.0</app.version> -->
+		<appVersion>1.0.0</appVersion>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
